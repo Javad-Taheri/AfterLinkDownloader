@@ -21,7 +21,7 @@ After Link Downloader is a free, lightweight, and easy-to-use download manager f
   Recover and resume downloads after unexpected interruptions or connection failures.
 
 ### Download
-Download the latest version from the "Releases" (../../releases) section.
+Download the latest version from the [Releases](https://github.com/Javad-Taheri/AfterLinkDownloader/releases/tag/v7.0.0) section.
 
 ### System Requirements
 Windows Vista or later
