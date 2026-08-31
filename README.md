@@ -2,22 +2,25 @@
 After Link Downloader is a free, lightweight, and easy-to-use download manager for Windows, designed to provide a smooth and reliable downloading experience.
 
 ### Features
-- Multi-Connection Downloader
+- **Multi-Connection Downloader**  
   Accelerate downloads by using multiple connections simultaneously.
 
-- Simple & User-Friendly Interface
+- **Simple & User-Friendly Interface**  
   A smooth, clean, and intuitive interface designed to make downloading easy and enjoyable.
 
-- URL Monitoring
+- **URL Monitoring**  
   Monitor URLs and automatically add detected links to the download queue.
 
-- Download Scheduling
+- **Download Scheduling**  
   Schedule your downloads to start at a specific time.
 
-- Free & Lightweight
+- **Checksum Verification**  
+  Verify downloaded files using multiple checksum and hash algorithms to help ensure file integrity.
+
+- **Free & Lightweight**  
   Completely free and designed to have minimal impact on the host system without unnecessary modifications.
 
-- Download Recovery
+- **Download Recovery**  
   Recover and resume downloads after unexpected interruptions or connection failures.
 
 ### Download
