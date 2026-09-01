@@ -14,6 +14,9 @@ After Link Downloader is a free, lightweight, and easy-to-use download manager f
 - **Download Scheduling**  
   Schedule your downloads to start at a specific time.
 
+- **Batch Downloads**  
+  Add multiple download links at once with multi-line input and group downloading.
+  
 - **Checksum Verification**  
   Verify downloaded files using multiple checksum and hash algorithms to help ensure file integrity.
 
@@ -37,3 +40,6 @@ After Link Downloader is free to use. The source code is not publicly available.
 
 ## Screenshots
 <img width="1302" height="471" alt="Screenshot1" src="https://github.com/user-attachments/assets/82f4d13c-1c10-47ee-965c-894d30f145d3" />
+<img width="514" height="468" alt="Screenshot2" src="https://github.com/user-attachments/assets/8190295a-6b16-47c9-b0e8-eccf4840869e" />
+<img width="516" height="448" alt="Screenshot3" src="https://github.com/user-attachments/assets/f2fc8d3b-157c-4687-bf0c-58e9e750e9b2" />
+
