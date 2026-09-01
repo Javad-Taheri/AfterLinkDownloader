@@ -30,7 +30,7 @@ After Link Downloader is a free, lightweight, and easy-to-use download manager f
   Monitor the amount of data transferred during all downloads.
 
 ### Download
-Download the latest version from the [Releases](https://github.com/Javad-Taheri/AfterLinkDownloader/releases/tag/v7.0.0) section.
+Download the latest version from the [Releases](https://github.com/Javad-Taheri/AfterLinkDownloader/releases/latest) section.
 
 ### System Requirements
 Windows Vista or later
