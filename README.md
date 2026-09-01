@@ -3,7 +3,7 @@ After Link Downloader is a free, lightweight, and easy-to-use download manager f
 
 ### Features
 - **Multi-Connection Downloader**  
-  Accelerate downloads by using multiple connections simultaneously.
+  Accelerate downloads by using multiple connections simultaneously and resume supported.
 
 - **Simple & User-Friendly Interface**  
   A smooth, clean, and intuitive interface designed to make downloading easy and enjoyable.
