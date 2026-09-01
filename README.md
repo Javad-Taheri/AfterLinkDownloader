@@ -34,3 +34,6 @@ Windows Vista or later
 
 ### License
 After Link Downloader is free to use. The source code is not publicly available.
+
+## Screenshots
+<img width="1302" height="471" alt="Screenshot1" src="https://github.com/user-attachments/assets/82f4d13c-1c10-47ee-965c-894d30f145d3" />
